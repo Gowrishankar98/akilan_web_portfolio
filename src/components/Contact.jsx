@@ -47,7 +47,7 @@ export default function Contact() {
               <div className="phone-box">
                 <span className="phone-label">CALL ME</span>
                 <a href="tel:+9092661289" className="phone-link">
-                  +9092661289
+                  +91 9092661289
                 </a>
               </div>
             </div>
